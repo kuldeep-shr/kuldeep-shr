@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kuldeep Sharma
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Typescript,Golang
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me https://www.linkedin.com/in/kuldeep-shr/
 
 <!---
