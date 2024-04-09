@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kuldeep Sharma
-- 👀 I’m interested in Backend Developer
+- 👀 I’m interested in Software Engineer (especially on the Backend Side)
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me https://www.linkedin.com/in/kuldeep-shr/
 
